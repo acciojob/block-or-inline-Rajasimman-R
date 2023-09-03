@@ -1,7 +1,4 @@
-  button{
-	  display:inline;
-  }
-#block-inline-button{
+button{
 	display:inline;
-	border:1px solid black;
-}
+} 
+
