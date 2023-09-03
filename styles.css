@@ -1,25 +1,4 @@
-  .block-inline-div {
-    border: 2px solid red; /* Block-level elements will have a red border */
-    display: block;
-    margin-bottom: 10px;
+  button{
+	  display:inline;
+	  border:1px solid black;
   }
-
-  .block-inline-button,
-  .block-inline-span,
-  .block-inline-p,
-  .block-inline-input,
-  .block-inline-cite,
-  .block-inline-code,
-  .block-inline-h1 {
-    border: 2px solid green; /* Inline-level elements will have a green border */
-    display: inline;
-    margin-right: 10px;
-  }
-
-  .block-inline-sup,
-  .block-inline-sub {
-    border: 2px solid blue; /* Inline-level elements will have a blue border */
-    display: inline;
-    margin-right: 10px;
-  }
-/* Your CSS Code here. */
